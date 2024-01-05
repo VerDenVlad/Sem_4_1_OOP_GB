@@ -28,6 +28,7 @@ public class Main {
         System.out.println(st.getElementByIndex(1));
         System.out.println(st.getElementByIndex(2));
         System.out.println(st.getElementByIndex(3));
+        System.out.println(st.getElementByIndex(4));
         System.out.println("Размер списка равен: " +st.size());
     }
 }
